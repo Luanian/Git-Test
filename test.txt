@@ -5,4 +5,10 @@ test 2
 
 test by.K
 
+<<<<<<< HEAD
+test2 by.K
+=======
 +test by.L
+>>>>>>> 10286ab8cd48e15ad4c4ed263cfe215c24ca4bbb
+
+more test for commit by K
